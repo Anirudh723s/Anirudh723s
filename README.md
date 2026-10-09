@@ -90,9 +90,10 @@
 </td>
 <td align="center" width="50%">
 <h3>📈 Project Two</h3>
-<p>A dynamic dashboard or app built with Streamlit, Plotly and NLP techniques.</p>
-<code>Streamlit</code> • <code>Pandas</code> • <code>Plotly</code> • <code>NLP</code><br/><br/>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">⚡ View Project Repository</a>
+<p>This project visualizes Paris 2024 Olympic data using Power BI to analyze medal tallies, country-wise performance, athlete achievements, and sports participation. Interactive dashboards and data visualizations provide insights into the performance of countries and athletes throughout the Olympic Games.</p>
+<code>Analysis </code> • <code>PowerBI</code> • <code>Plotly</code> • <code>Visualization </code><br/><br/>
+<a href="https://github.com/Anirudh723s/Paris-2024-Olympic-Powerbi-Dashboard
+">⚡ View Project Repository</a>
 </td>
 </tr>
 <tr>

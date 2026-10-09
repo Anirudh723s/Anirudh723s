@@ -83,7 +83,7 @@
 <tr>
 <td align="center" width="50%">
 <h3>🪐 Project One</h3>
-<p>A short description of your best project — what it does and the problem it solves.</p>
+<p>This project analyzes Uber ride data using Python to identify ride patterns, peak booking hours, trip trends, and customer demand. Using Pandas, Matplotlib, and Seaborn, it explores key insights through data cleaning, exploratory data analysis (EDA), and visualizations to better understand ride-hailing trends.</p>
 <code>Python</code> • <code>Jupyter</code> • <code>Data Science</code> • <code>EDA</code><br/><br/>
 <a href="https://github.com/Anirudh723s/Uber-Analysis-using-Python
 ">⚡ View Project Repository</a>

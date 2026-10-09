@@ -85,7 +85,8 @@
 <h3>🪐 Project One</h3>
 <p>A short description of your best project — what it does and the problem it solves.</p>
 <code>Python</code> • <code>Jupyter</code> • <code>Data Science</code> • <code>EDA</code><br/><br/>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">⚡ View Project Repository</a>
+<a href="https://github.com/Anirudh723s/Uber-Analysis-using-Python
+">⚡ View Project Repository</a>
 </td>
 <td align="center" width="50%">
 <h3>📈 Project Two</h3>

@@ -31,7 +31,7 @@
 <td align="right"><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/C-0284c7?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-0369a1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-0369a1?style=for-the-badge&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-06b6d4?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-f43f5e?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black"/>

@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Anirudh723s&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square)
 
 </div>
 

@@ -126,14 +126,14 @@
 <h2 align="center">📊 GitHub Analytics & Insights</h2>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=00b4ff&icon_color=22d3ee&text_color=cbd5e1&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=00b4ff&text_color=cbd5e1&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anirudh723s&show_icons=true&theme=transparent&title_color=00b4ff&icon_color=22d3ee&text_color=cbd5e1&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh723s&layout=compact&theme=transparent&title_color=00b4ff&text_color=cbd5e1&hide_border=true"/>
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=22d3ee&line=00b4ff&point=ffffff&area=true&area_color=0284c7&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anirudh723s&bg_color=0d1117&color=22d3ee&line=00b4ff&point=ffffff&area=true&area_color=0284c7&hide_border=true" width="95%"/>
 </p>
 
 <h2 align="center">📫 Connect With Me</h2>
